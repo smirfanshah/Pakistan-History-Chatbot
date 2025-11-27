@@ -1,0 +1,7 @@
+groq==0.36.0
+pinecone==8.0.0
+pinecone-client==6.0.0
+pip==25.3
+python-dotenv==1.2.1
+sentence-transformers==5.1.2
+Wikipedia-API==0.8.1
